@@ -2,8 +2,6 @@
  Deep learning
  
 ├── Week 01: Perceptron Fundamentals and Training Concepts/
-
-..
              Module 01: Introduction to Deep Learning and Perceptrons
 
 
